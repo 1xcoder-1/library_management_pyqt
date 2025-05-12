@@ -1,7 +1,5 @@
 # Build Library Management System | Python & PyQt5
 
-- get the course from here : 
-    https://www.udemy.com/build-library-management-system-python-pyqt5/?couponCode=YOUTUBE2019
 
 - In this course you'll learn how to build a Library System with PyQt5 and Python
   PyQt5 is one of the best frameworks for developing desktop applications that looks awesome 
@@ -43,12 +41,4 @@
     - Login at startup
 
 
-
-
-
-- Are there any course requirements or prerequisites?
-    - simple python skills is needed
-
-- Who this course is for:
-    - This course is aimed towards absolute beginners who want to learn how to  build desktop applications with PyQt5 and Python
 
